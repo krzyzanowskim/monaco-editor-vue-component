@@ -1,6 +1,6 @@
 {
   "name": "monaco-editor-vue-component",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "MonacoEditor component for Vue.js",
   "repository": {
     "url": "krzyzanowskim/monaco-editor-vue-component",
