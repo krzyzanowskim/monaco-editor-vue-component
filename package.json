@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "MonacoEditor component for Vue.js",
   "repository": {
-    "url": "krzyanowskim/monaco-editor-vue-component",
+    "url": "krzyzanowskim/monaco-editor-vue-component",
     "type": "git"
   },
   "author": "Marcin Krzyzanowski <marcin@krzyzanowskim.com>",
