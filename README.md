@@ -7,7 +7,7 @@ $ npm i -s monaco-editor-vue-component
 Register the component:
 
 ```js
-import MonacoPlugin from 'monaco-editor-vue-component
+import MonacoPlugin from 'monaco-editor-vue-component'
 
 const app = createApp(App)
 app.use(MonacoPlugin)
